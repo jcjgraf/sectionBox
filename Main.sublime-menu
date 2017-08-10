@@ -1,0 +1,14 @@
+[
+	{
+
+		"id"		: 	"edit",
+		"children"	: 	
+		[
+			{
+				"id"		:	"sectionbox",
+				"caption"	:	"Create a SectionBox",
+				"command"	:	"sectionbox"
+			}
+		]
+	}
+]
